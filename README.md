@@ -6,10 +6,12 @@
 
 ## 个人配置
 ![](./img/swb.png)
+![](./img/pen.png)
 
 ## 更新
 - 2021/10/20 现在更换工具时屏幕中央会出现提示，提醒更换的笔
-注：
+
+## 注
 - 需要下载[autohotkey](https://www.autohotkey.com/)
 
 
